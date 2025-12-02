@@ -6,7 +6,10 @@
       "Bash(npx tailwindcss init -p)",
       "Bash(./node_modules/.bin/tailwindcss:*)",
       "Skill(frontend-design:frontend-design)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
